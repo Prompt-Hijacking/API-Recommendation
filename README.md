@@ -6,8 +6,8 @@
 
 ## Design Overview
 <div  align="center">    
- <img src="https://github.com/Prompt-Hijacking/API-Recommendation/fig/overview.png" width="800" height="300" alt="Design Overview"/><br/>
-</div>    
+ < img src="https://github.com/Prompt-Hijacking/API-Recommendation/fig/overview.png" width="680" height="230" alt="Design Overview"/><br/>
+</div> 
 
 *DPEfficR* comprises three main modules:(1) a data selection module for curating diverse unlabeled training data, (2) a prompt tuning module that fine-tunes a pre-trained code model with fewer parameters using manually labeled data, and (3) a runtime API selection module to ensure the integrity of recommended API sequences.
 
