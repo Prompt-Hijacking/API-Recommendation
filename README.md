@@ -13,7 +13,7 @@
 
 ## Data
 
-Please kindly find the data [link](https://github.com/Prompt-Hijacking/API-Recommendation/blob/main/overview.png).
+Please kindly find the data [link]([https://github.com/Prompt-Hijacking/API-Recommendation/blob/main/overview.png]).
 
 
 ## File Structure
