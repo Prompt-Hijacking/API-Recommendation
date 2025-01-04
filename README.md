@@ -6,14 +6,14 @@
 
 ## Design Overview
 <div align="center">    
- <img src="[https://github.com/Prompt-Hijacking/API-Recommendation/blob/main/fig/overview.png](https://github.com/Prompt-Hijacking/API-Recommendation/blob/main/overview.png)?raw=true" width="780" height="360" alt="Design Overview"/><br/>
+ <img src="https://github.com/Prompt-Hijacking/API-Recommendation/blob/main/fig/overview.png?raw=true" width="780" height="360" alt="Design Overview"/><br/>
 </div> 
 
 *DPEfficR* comprises three main modules:(1) a data selection module for curating diverse unlabeled training data, (2) a task-specific parameter tuning module that fine-tunes a pre-trained code model with fewer parameters using manually labeled data, and (3) a runtime API selection module to ensure the integrity of recommended API sequences.
 
 ## Data
 
-Please kindly find the data [link]([https://github.com/Prompt-Hijacking/API-Recommendation/blob/main/overview.png](https://smu-my.sharepoint.com/personal/tingzhang_2019_phdcs_smu_edu_sg/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ftingzhang%5F2019%5Fphdcs%5Fsmu%5Fedu%5Fsg%2FDocuments%2FSANER%2D23%2Ddata%2Dv1&ga=1)).
+Please kindly find the data [link](https://smu-my.sharepoint.com/personal/tingzhang_2019_phdcs_smu_edu_sg/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ftingzhang%5F2019%5Fphdcs%5Fsmu%5Fedu%5Fsg%2FDocuments%2FSANER%2D23%2Ddata%2Dv1&ga=1).
 
 
 ## File Structure
