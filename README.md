@@ -35,7 +35,7 @@ We recommend to use ``conda`` to manage the python libraries and the requirement
 Example:
 
 ```python
-CUDA_VISIBLE_DEVICES=1 python run_annotation.py --peft_config_type IA3 --output_dir '19-Oct-annotation'
+CUDA_VISIBLE_DEVICES=1 python run_annotation.py --peft_config_type XXX --output_dir '19-Oct-annotation'
 ```
 
 ## Test
